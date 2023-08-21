@@ -1,0 +1,14 @@
+models/tests/func_static_test
+{
+	qer_editorimage models/tests/func_static_test_d.tga
+	unsmoothedTangents	
+	{
+		blend diffusemap
+		map models/tests/func_static_test_d.tga
+	}
+	{
+		blend add
+		map models/tests/func_static_test_glow.tga
+		rgb 0.5
+	}
+}

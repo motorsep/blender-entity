@@ -1,0 +1,28 @@
+{
+    "classname" "func_static"
+    "name" "Cube"
+    "origin" "0.0000000 0.0000000 0.0000000"
+    "rotation" "1.0 0.0 -0.0 -0.0 1.0 -0.0 0.0 0.0 1.0"
+    "model" models/tests/func_static_ent_export.ase
+}
+{
+    "classname" "func_static"
+    "name" "Cube.001"
+    "origin" "0.0000000 0.0000000 -96.0000000"
+    "rotation" "1.0 0.0 -0.0 0.0 0.9063077569007874 0.4226182699203491 0.0 -0.4226182699203491 0.9063077569007874"
+    "model" models/tests/func_static_ent_export.ase
+}
+{
+    "classname" "func_static"
+    "name" "Cube.002"
+    "origin" "-96.0000000 -93.6212006 -16.0000000"
+    "rotation" "0.7071067690849304 0.7071067690849304 -0.0 -0.7071067690849304 0.7071067690849304 -0.0 0.0 0.0 1.0"
+    "model" models/tests/func_static_ent_export.ase
+}
+{
+    "classname" "func_static"
+    "name" "Cube.003"
+    "origin" "92.0000000 86.4502411 64.0000000"
+    "rotation" "0.6830126643180847 0.1830127090215683 -0.7071067690849304 -0.523223340511322 0.7980815768241882 -0.29883623123168945 0.5096380710601807 0.5740837454795837 0.6408563852310181"
+    "model" models/tests/func_static_ent_export.ase
+}
