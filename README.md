@@ -3,3 +3,9 @@ A simple script that takes Blender's scene objects' location and rotation and sa
 Object in Blender needs a custom property set, called "model" (string type) with value as a path to your ASE/LWO model:
 
 ![image](https://github.com/motorsep/blender-entity/assets/1927918/e807f84a-c0dd-4204-9897-7500c1418597)
+
+Video showcase:
+
+https://www.youtube.com/watch?v=tw_e4kVRfyQ
+
+https://www.youtube.com/watch?v=QU_o06RICL0
